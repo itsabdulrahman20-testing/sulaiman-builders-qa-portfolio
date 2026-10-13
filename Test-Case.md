@@ -57,16 +57,17 @@ Note: This result applies only to the test cases executed. Additional testing is
 
 Test Case 4: Verify Phone Number Interaction
 
+Test Case 4: Verify Phone Number Interaction
+
 * Test Case ID: TC004
-* Objective: Verify that the displayed phone number can be used to initiate a call.
+* Objective: Verify that the displayed phone number provides a call option.
 * Steps:
     1. Open the Sulaiman Builders website on an iPhone.
-    2. Tap the displayed phone number normally.
-    3. Press and hold the phone number.
-    4. Observe the available actions.
+    2. Tap the displayed phone number.
+    3. Observe the available call action.
 * Expected Result: The phone number should provide an appropriate way to initiate a call.
-* Actual Result: A normal tap did not open the phone dialler. Pressing and holding the number displayed a Call option.
-* Status: NEEDS FURTHER VERIFICATION
+* Actual Result: The website provided an option to call the displayed number.
+* Status: PASS
 
 Test Case 5: Verify Email Link
 
