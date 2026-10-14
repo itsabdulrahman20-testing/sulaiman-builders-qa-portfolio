@@ -1,37 +1,45 @@
-QA Testing Portfolio
-
-Role: Manual QA Tester
-Project: Sulaiman Builders Website
-Testing Type: Manual Testing | Functional Testing | UI Testing | Usability Testing
-
-About the Project
-
-This project demonstrates my practical manual testing skills using the Sulaiman Builders website.
-
-Website: https://sulaimanbuilders72-source.github.io/Sulaiman.builders/
-
-Testing Objectives
-
-* Verify website navigation and links.
-* Test forms and input validation.
-* Check UI consistency and responsiveness.
-* Identify, document, and report bugs.
-* Prepare test cases and bug reports.
-
-Testing Documents
-
-1. Test Plan
-2. Test Scenarios and Test Cases
-3. Bug Reports
-4. Test Execution Results
-5. Screenshots and Evidence
-
-Tools
-
-* GitHub
-* Jira (for bug-reporting practice)
-* Browser Developer Tools
+Abdul Rahman – QA Testing Portfolio
 
 About Me
 
-I am a BCA graduate interested in software quality assurance and manual testing. This portfolio showcases my practical testing work and documentation skills.
+I am a BCA graduate building practical skills in Manual Software Testing and Quality Assurance. This portfolio demonstrates my testing documentation and hands-on website testing.
+
+Project Under Test
+
+Sulaiman Builders Website
+
+Website: https://sulaimanbuilders72-source.github.io/Sulaiman.builders/
+
+Testing Performed
+
+* Website loading and navigation testing
+* Mobile UI and layout testing
+* Phone number and email link testing
+* Contact form functional testing
+* Defect reporting and retesting after a fix
+
+QA Documentation
+
+* Test Cases and Execution Results
+* Bug Reports and Defect Resolution
+* Test Execution Summary
+
+Tools and Skills
+
+* Manual Testing
+* Functional Testing
+* UI Testing
+* Test Case Design
+* Bug Reporting
+* Root Cause Analysis
+* Retesting
+* GitHub
+* Jira
+
+Project Outcome
+
+Identified an incorrect recipient email address in the website’s contact form code. After correcting the address, verified that the email was received during retesting.
+
+Career Objective
+
+Seeking an entry-level QA Tester or Manual Tester opportunity where I can contribute to software quality and continue developing my testing skills.
